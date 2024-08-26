@@ -79,3 +79,14 @@ h6 {
 :root {
   font-size: 14px;
 }
+#qr-code {
+  width: 12em;
+  border: 2px solid black;
+  margin: 1rem auto;
+  border-radius: 1rem;
+}
+
+.challenge-name {
+  text-align: center;
+  font-size: 0.7rem;
+}
